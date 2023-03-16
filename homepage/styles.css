@@ -1,0 +1,58 @@
+nav {
+    font-family: 'Montserrat', sans-serif;
+}
+.bg {
+    /* The image used */
+    background-image: url("Flushing1.jpeg");
+
+    /* Full height */
+    height: 100vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.center {
+  text-align: center;
+}
+
+.bg2{
+  background-image: url("flushing3.jpg");
+}
+
+.right{
+  text-align:right;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+
+.bg3{
+  background-image: url("Dimsum1.jpg");
+}
+
+.bg4{
+  background-image: url("Dimsum3.jpg");
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.directions{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  text-align:center;
+
+  margin-top: 100px;
+}
+
+.container{
+  font-size: 200px;
+  text-align: center;
+  margin-top: 300px;
+}
